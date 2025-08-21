@@ -8,7 +8,7 @@
 !wget "https://www.dropbox.com/scl/fi/zj1svlkgmu09lc21mrg61/yolov3-custom_best_87.weights?rlkey=fxc9ly7c11h0ihwwsqdc3e7pf&st=7djqzwjt&dl=1" -O yolov3_custom_best_87.weights
 ```
 
-### yolov8 trained modal :
+### yolov8 trained model :
 
 ```bash
 !wget "https://www.dropbox.com/scl/fi/6x31w03dpy3pr1usfbcjn/tele_sw_best.pt?rlkey=fgcznvvxgb4enzkifog7xdbql&st=zu58ldtt&dl=1" -O tele_sw_best.pt
