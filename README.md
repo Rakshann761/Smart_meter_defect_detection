@@ -1,6 +1,6 @@
 # Smart_meter_defect_detection
 
-### For more details about darknet, refer to the [original repository](https://github.com/hank-ai/darknet)
+### For more details about darknet, refer to the https://github.com/hank-ai/darknet
 
 ### Load trained weight file:
 
