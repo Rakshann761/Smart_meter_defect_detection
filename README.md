@@ -27,6 +27,5 @@ wget "https://www.dropbox.com/scl/fi/gfmb4t3ilve1odj6phiua/best_earth.pt?rlkey=n
 ```
 
 #### Sample Yolov8 Test Image
-![yolov8_test_image](test_yolov8_img.png)
-!<img src="allgood.png" alt="All Good Prediction" width="400"/>
+!<img src="test_yolov8_img.png" alt="yolov8_test_image" width="400"/>
 
