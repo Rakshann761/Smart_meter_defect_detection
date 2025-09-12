@@ -14,7 +14,7 @@ cd Smart_meter_defect_detection
 wget "https://www.dropbox.com/scl/fi/zj1svlkgmu09lc21mrg61/yolov3-custom_best_87.weights?rlkey=fxc9ly7c11h0ihwwsqdc3e7pf&st=7djqzwjt&dl=1" -O yolov3_custom_best_87.weights
 ```
 
-#### Yolov3 Test Image
+#### Sample Yolov3 Test Image
 !<img src="sample_yolov3_test_img.jpg" alt="yolov3_test_image" height="300" width="400"/>
 
 ### Yolov8 Trained Model :
