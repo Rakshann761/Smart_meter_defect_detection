@@ -17,4 +17,4 @@ wget "https://www.dropbox.com/scl/fi/wk9qibgfr88jnealw7zb7/finalbest.pt?rlkey=m1
 
 wget "https://www.dropbox.com/scl/fi/gfmb4t3ilve1odj6phiua/best_earth.pt?rlkey=nwh8hq2el7mucmiow075xupw0&st=osp0dghk&dl=1" -O best_earth.pt
 ```
-![yolov8_test_image](test_yolov8_img)
+![yolov8_test_image](~/test_yolov8_img)
